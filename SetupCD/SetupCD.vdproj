@@ -13,6 +13,18 @@
 "SccProvider" = "8:"
     "Hierarchy"
     {
+        "Entry"
+        {
+        "MsmKey" = "8:_24EB395C10EB42DE885A0747A13D3F2D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_742C18D5EBB6425CA0A681069022DBEF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -92,6 +104,46 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_24EB395C10EB42DE885A0747A13D3F2D"
+            {
+            "SourcePath" = "8:D:\\src\\oposfintekcd\\UsbUart_Adv_GPIOSDK.dll"
+            "TargetName" = "8:UsbUart_Adv_GPIOSDK.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_BB65277F1A9147DCBD0B6DDD3BD9D56E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_742C18D5EBB6425CA0A681069022DBEF"
+            {
+            "SourcePath" = "8:D:\\src\\oposfintekcd\\atl_cd_so.dll"
+            "TargetName" = "8:atl_cd_so.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_BB65277F1A9147DCBD0B6DDD3BD9D56E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:4"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -149,7 +201,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:SetupCD"
         "ProductCode" = "8:{D5A44B1A-0B48-4A53-8A0E-ED660F60F7BA}"
-        "PackageCode" = "8:{E7C52F62-AB8D-430E-9BF5-960A00C470C0}"
+        "PackageCode" = "8:{163401A1-D372-40B5-85B5-6F4574CC1BFC}"
         "UpgradeCode" = "8:{C581D376-4307-4953-8104-1E1F1294BEA1}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
